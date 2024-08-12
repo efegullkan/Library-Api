@@ -1,0 +1,1 @@
+This project is a Library API designed to manage books and users within a library system. Built with Node.js, this API allows for adding, updating, deleting, and retrieving book information, as well as handling user-related operations.
