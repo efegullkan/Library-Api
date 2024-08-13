@@ -1,10 +1,10 @@
 {
     "db": {
-        "name": "libraryApi",
-        "username": "efegulkan11"
+        "name": "name",
+        "username": "username"
     },
     "email": {
-        "mail": "efenodemailer@gmail.com",
-        "password": "dhyw kvyj nnba zwqs"
+        "mail": "mail",
+        "password": "password"
     }
 }
